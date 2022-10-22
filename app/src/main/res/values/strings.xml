@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">MapAndDatabaseMvvm</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="property_name">Property Name</string>
+    <string name="property_coordinates">Property Coordinates</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_data">Please enter data.</string>
+    <string name="save_in_database"> is saved in database.</string>
 </resources>

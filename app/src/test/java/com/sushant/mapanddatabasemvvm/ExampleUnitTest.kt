@@ -1,8 +1,10 @@
 package com.sushant.mapanddatabasemvvm
 
-import org.junit.Test
-
+import androidx.lifecycle.Observer
 import org.junit.Assert.*
+import org.junit.Test
+import java.util.Observable
+import java.util.stream.Stream
 
 /**
  * Example local unit test, which will execute on the development machine (host).

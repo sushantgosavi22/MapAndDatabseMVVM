@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="margin_10" tools:ignore="MissingDefaultResource">10dp</dimen>
+    <dimen name="margin_20" tools:ignore="MissingDefaultResource">20dp</dimen>
+    <dimen name="margin_22" tools:ignore="MissingDefaultResource">22dp</dimen>
+    <dimen name="margin_21" tools:ignore="MissingDefaultResource">21dp</dimen>
+    <dimen name="padding_10" tools:ignore="MissingDefaultResource">10dp</dimen>
+    <dimen name="list_item_spacing">16dp</dimen>
+    <dimen name="list_item_spacing_half">8dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+</resources>
